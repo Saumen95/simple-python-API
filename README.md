@@ -1,0 +1,2 @@
+# simple-python-API
+This practice API will show you how to build a prototype API using Python and the Flask web framework. Our example API will take the form of a distant reading archive—a book catalog that goes beyond standard bibliographic information to include data of interest to those working on digital projects.This API is created according to this site:https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
